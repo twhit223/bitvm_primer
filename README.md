@@ -92,7 +92,7 @@ _Example BitVM Walkthrough_
 * _Part V: What challenges does BitVM face?_
 
 
-Huge shoutouts to [Dazza](https://twitter.com/dazza9x), [English](https://twitter.com/EnglishNFTea), [Isabel](https://twitter.com/isabelfoxenduke), [Jan](https://twitter.com/nonfungible_jan), , & Super Testnet for their thoughtful comments on this article.
+Huge shoutouts to [Dazza](https://twitter.com/dazza9x), [English](https://twitter.com/EnglishNFTea), [Isabel](https://twitter.com/isabelfoxenduke), [Jan](https://twitter.com/nonfungible_jan), , & [Super Testnet](https://twitter.com/super_testnet) for their thoughtful comments on this article.
 
 ## Notes
 
